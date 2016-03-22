@@ -6,6 +6,6 @@ THE PROJECT CONTAINS FOLLOWING FOLDERS AND FILES:
 2.css FOLDER (quizDesign.css && lte_IE8_only.css);
 3.js FOLDER (quizBehavior.js);
 4.images FOLDER (2 FOLDERS):
-   1.images1 FOLDER(5 IMAGES);
-   2.images2 FOLDER(5 IMAGES)
+   a.images1 FOLDER (5 IMAGES);
+   b.images2 FOLDER (5 IMAGES)
 
