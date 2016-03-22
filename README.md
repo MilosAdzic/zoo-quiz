@@ -1,2 +1,11 @@
 # zoo-quiz
-Simple JavaScript quiz application about animals.
+SIMPLE JAVASCRIPT QUIZ APPLICATION WHICH CONSISTS 10 QUESTIONS ABOUT ANIMALS; 
+FOR EACH QUESTION THERE ARE 4 POSSIBLE ANSWERS (ONE IS CORRECT).
+THE PROJECT CONTAINS FOLLOWING FOLDERS AND FILES:
+1.index.html;
+2.css FOLDER (quizDesign.css && lte_IE8_only.css);
+3.js FOLDER (quizBehavior.js);
+4.images FOLDER (2 FOLDERS):
+   1.images1 FOLDER(5 IMAGES);
+   2.images2 FOLDER(5 IMAGES)
+
